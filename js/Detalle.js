@@ -18,4 +18,3 @@ async function Detalle(pokemon) {
 }
 
 
-Detalle(160)
